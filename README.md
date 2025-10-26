@@ -44,5 +44,3 @@ The Power BI report (`HR-Attrition.pbix`) provides a visual summary of:
 ## Conclusion
 This project highlights how data analytics can transform HR management by predicting and reducing attrition. Combining Python’s analytical power with Power BI’s visual capabilities makes it easier for HR professionals to interpret complex workforce patterns.
 
-
-⭐ *If you found this project helpful, don’t forget to star this repository!*
